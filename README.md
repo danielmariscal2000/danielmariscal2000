@@ -38,6 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmariscal2000&show_icons=true&locale=en" alt="danielmariscal2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmariscal2000&" alt="danielmariscal2000" /></p>
-###Snake🐍
+###Snake eatign my contribution graph🐍
 <!-- ![snake gif](https://github.com/danielmariscal2000/danielmariscal2000/blob/output/github-contribution-grid-snake.gif) -->
 <img align="center" src="https://github.com/danielmariscal2000/danielmariscal2000/blob/output/github-contribution-grid-snake.gif"/>
