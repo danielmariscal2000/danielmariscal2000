@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmariscal2000&" alt="danielmariscal2000" /></p>
 ###Snake🐍
-![snake gif](https://github.com/danielmariscal707/danielmariscal707/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/danielmariscal2000/danielmariscal2000/blob/output/github-contribution-grid-snake.gif)
