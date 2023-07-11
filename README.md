@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **projects web**
 
-- 👨‍💻 All of my projects are available at [https://github.com/danielmariscal2000/Portafolio.git](https://github.com/danielmariscal2000/Portafolio.git)
+- 👨‍💻 All of my projects are available at [[https://github.com/danielmariscal2000/Portafolio.git]([https://danielmariscal2000.github.io/Portafolio/])
 
 - 💬 Ask me about **JavaScript**
 
