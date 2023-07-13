@@ -1,4 +1,3 @@
-
   <img src="https://media.licdn.com/dms/image/D4E16AQH6_otiF_7QFA/profile-displaybackgroundimage-shrink_350_1400/0/1672880023064?e=1694649600&v=beta&t=w3eFnAScsIBRrTQGTRvlKprY4eLNBM3m049JBo01iaQ" height="250" width="2000" />
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Bolivia</h3>
